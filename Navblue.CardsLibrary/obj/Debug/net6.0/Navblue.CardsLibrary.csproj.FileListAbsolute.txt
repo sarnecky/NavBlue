@@ -1,0 +1,12 @@
+C:\code challanges\Sandbox\Navblue.CardsLibrary\bin\Debug\net6.0\Navblue.CardsLibrary.deps.json
+C:\code challanges\Sandbox\Navblue.CardsLibrary\bin\Debug\net6.0\Navblue.CardsLibrary.dll
+C:\code challanges\Sandbox\Navblue.CardsLibrary\bin\Debug\net6.0\ref\Navblue.CardsLibrary.dll
+C:\code challanges\Sandbox\Navblue.CardsLibrary\bin\Debug\net6.0\Navblue.CardsLibrary.pdb
+C:\code challanges\Sandbox\Navblue.CardsLibrary\obj\Debug\net6.0\Navblue.CardsLibrary.csproj.AssemblyReference.cache
+C:\code challanges\Sandbox\Navblue.CardsLibrary\obj\Debug\net6.0\Navblue.CardsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\code challanges\Sandbox\Navblue.CardsLibrary\obj\Debug\net6.0\Navblue.CardsLibrary.AssemblyInfoInputs.cache
+C:\code challanges\Sandbox\Navblue.CardsLibrary\obj\Debug\net6.0\Navblue.CardsLibrary.AssemblyInfo.cs
+C:\code challanges\Sandbox\Navblue.CardsLibrary\obj\Debug\net6.0\Navblue.CardsLibrary.csproj.CoreCompileInputs.cache
+C:\code challanges\Sandbox\Navblue.CardsLibrary\obj\Debug\net6.0\Navblue.CardsLibrary.dll
+C:\code challanges\Sandbox\Navblue.CardsLibrary\obj\Debug\net6.0\ref\Navblue.CardsLibrary.dll
+C:\code challanges\Sandbox\Navblue.CardsLibrary\obj\Debug\net6.0\Navblue.CardsLibrary.pdb
